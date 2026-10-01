@@ -1,0 +1,10 @@
+Git init
+Git Remote add origin
+git add .
+git commit -m 'first commit"
+git psuh -u origin master
+
+updating commands
+git add.
+git commit -m updating file
+git push
