@@ -1,1 +1,6 @@
 feature branches.
+git checkout master
+git pull origin master
+git checkout -b feature2/branch
+git add . 
+git commit -m "new branch"

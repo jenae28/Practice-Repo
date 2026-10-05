@@ -1,5 +1,5 @@
 Git init
-Git Remote add origin
+Git Remote add origin https://github.com/jenae28/Practice-Repo.git
 git add .
 git commit -m 'first commit"
 git psuh -u origin master
